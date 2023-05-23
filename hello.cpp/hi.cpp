@@ -1,10 +1,4 @@
-#include <iostream>
-using namespace std;
-int main ()
-{
-    cout<<"hello world";
-    return 0;
-}// Program to illustrate the working of
+// Program to illustrate the working of
 // objects and class in C++ Programming
 
 #include <iostream>
