@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main(){
+  int length;
+  int breadth;
+  float area;
+  cout<< "enter length"<< length << ".enter breadth" << breadth; 
+  cin>> length >> breadth;
+  area = length*breadth
+  return 0;
+  }
