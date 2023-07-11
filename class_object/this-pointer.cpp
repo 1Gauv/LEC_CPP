@@ -3,11 +3,11 @@ using namespace std;
 
 class A
 {
-    int x
+    int x;
     public:
     void getnum(int x)
     {
-        x=x;
+        this->x=x;
     }
 
    void showdata()
@@ -21,7 +21,7 @@ class A
 };
 int main()
 {
-    A obj1,obj2;
+    A obj1 , obj2;
     obj1.getnum(10);
     obj1.showdata();
     obj2.getnum(5);
